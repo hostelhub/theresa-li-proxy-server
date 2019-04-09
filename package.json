@@ -1,0 +1,24 @@
+{
+  "name": "theresa-li-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hostelhub/theresa-li-proxy-server.git"
+  },
+  "author": "Theresa Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hostelhub/theresa-li-proxy-server/issues"
+  },
+  "homepage": "https://github.com/hostelhub/theresa-li-proxy-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  }
+}
